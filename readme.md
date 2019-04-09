@@ -1,4 +1,4 @@
-###this is an extended version of salty dogs Cognito forms sample  app ###
+### this is an extended version of salty dogs Cognito forms sample  app ###
  this version I add Cognito identity authentication this allows for the Cognito authenticated user to use AWS services with IAM roles and how to stay logged in  with the refresh token
 
 ## this app does not need best practice please use at your own risk this is only a sample ###
